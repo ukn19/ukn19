@@ -25,23 +25,39 @@
 ## 🧰 Tech Stack
 
 ### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-black?style=for-the-badge&logo=archlinux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+![Slackware](https://img.shields.io/badge/Slackware-black?style=for-the-badge&logo=slackware)
+![DragonOS](https://img.shields.io/badge/DragonOS-black?style=for-the-badge)
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Shell Script](https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnubash)
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
 
-### 🛠️ Security Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge)
-
-### 🌐 Infrastructure
+### ⚙️ DevOps / Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
+### 🏢 Enterprise
+![Active Directory](https://img.shields.io/badge/Active_Directory-black?style=for-the-badge)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure)
+
+### 🤖 AI
+![LLMs](https://img.shields.io/badge/AI_LLMs-black?style=for-the-badge)
+
 ### 🔌 Hardware
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-black?style=for-the-badge&logo=raspberrypi)
+![Flipper Zero](https://img.shields.io/badge/Flipper_Zero-black?style=for-the-badge)
+![PortaPack](https://img.shields.io/badge/PortaPack-black?style=for-the-badge)
+![Cardputer](https://img.shields.io/badge/Cardputer-black?style=for-the-badge)
+![Pwnagotchi](https://img.shields.io/badge/Pwnagotchi-black?style=for-the-badge)
 
 ---
 
