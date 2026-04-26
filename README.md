@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 ## 👨‍💻 About Me
 
@@ -13,3 +13,10 @@
 🖨️ 3D Printing (BambuLab / TPU / PLA / PETG)  
 
 🧪 Personal Security Lab
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/ukn19/ukn19/blob/output/github-snake-dark.svg"/>
+</p>
