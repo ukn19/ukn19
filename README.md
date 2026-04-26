@@ -8,15 +8,15 @@
 
 ## 👨‍💻 About Me
 
-🔐 Offensive Security / Red Team
-🕷️ Web Hacking
-🤖 AI Red Team
-💻 Infrastructure Hacking
-☁️ Cloud Red Team
+🔐 Offensive Security / Red Team  
+🕷️ Web Hacking  
+🤖 AI Red Team  
+💻 Infrastructure Hacking  
+☁️ Cloud Red Team  
 
-🛰️ Hardware / IoT Hacking
-🛸 FPV Drone Building
-🖨️ 3D Printing (BambuLab / TPU / PLA / PETG)
+🛰️ Hardware / IoT Hacking  
+🛸 FPV Drone Building  
+🖨️ 3D Printing (BambuLab / TPU / PLA / PETG)  
 
 🧪 Personal Security Lab
 
@@ -24,11 +24,24 @@
 
 ## 🧰 Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-black?style=for-the-badge\&logo=raspberrypi)
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+### 🛠️ Security Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge)
+
+### 🌐 Infrastructure
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+
+### 🔌 Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=for-the-badge&logo=raspberrypi)
 
 ---
 
@@ -59,7 +72,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ukn19&theme=matrix&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ukn19&theme=matrix&column=7&margin-w=15&margin-h=15"/>
 </p>
 
 ---
